@@ -5,4 +5,6 @@ ones = np.ones(2, 3)
 
 suma = zeros + ones
 
+dos = np.sum(np.ones(1, 1), np.ones(1, 1))
+
 print("hello")
