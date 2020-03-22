@@ -1,12 +1,6 @@
 import numpy as np
 
 zeros = np.zeros(2, 3)
-ones = np.ones(2, 3)
-
-suma = zeros + ones
-
-dos = np.sum(np.ones(1, 1), np.ones(1, 1))
-
-print("hello")
+zeros = 0's
 
 print("something else I did")
